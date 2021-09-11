@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* body{
+    background-color:#e6e6ff ;
+} */
+
+.header{
+    background: rgba(9,3,6,0.97);
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+}
+
+.menu ul li{
+    margin-right: 15px;
+}
+
+.menu ul li a{
+    color: white;
+}
+
+.menu ul li:hover a{
+    color: goldenrod;
+}
+
+.karusel{
+margin-top: 50px;
+}
+
+.batton{
+    background-color: goldenrod;
+}
+
+.batton:hover{
+    background-color: #062c33;
+}
+
+.carousel-inner .karusel1 {
+    width: 500px;
+    height: 300px;
+}
+
+.dewelopment{
+    margin-top: 130px;
+
+}
+
+.div-one{
+    margin-left: 700px;
+    margin-top: -380px;
+}
+.h3{
+    margin-top: 20px;
+}
+.p{
+    margin-top: 20px;
+}
+.p1{
+    margin-top: -15px;
+}
+.p2{
+    font-size: 25px;
+    margin-top: 50px;
+}
+.chiziq{
+    width: 60px;
+    height: 1px;
+    background-color: black;
+}
+
+.bosilganda img{
+    width: 44px;
+    height: 44px;
+}
+
+.bosilganda:hover h3{
+    color:goldenrod;
+}
+
+.bosilganda:hover .chiziq{
+    background-color: goldenrod;
+}
+
+.rang{
+    margin-top: 50px;
+    background-color: #e6e6ff;
+    width: 100%;
+    min-height: 500px;
+}
+.div-two{
+    margin-top: 50px;
+}
+.h5{
+    margin-left: 50px;
+}
+.main-one{
+    margin-top:100px;
+}
+.div-four{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.div-five{
+    margin-top: 30px;
+}
+.div-six{
+    margin-left: 430px;
+    margin-top: -280px;
+}
+
+.p3{
+    margin-left: 300px;
+    font-size: 35px;
+}
+.p4{
+    margin-left: 200px;
+    font-size: 20px;
+}
+.div-seven{
+    margin-left: 350px;
+}
+.div-eight{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.allcards{
+    transition:.5s;
+    cursor: grabbing;
+}
+.allcards:hover{
+    transform: scale(1.1);
+}
+.h6{
+    margin-left: 25px;
+}
+.p6{
+    margin-left: 25px;
+    font-size: 15px;
+}
+.div-nine{
+    margin-left: 550px;
+    margin-top: -330px;
+}
+span{
+    margin-left: 30px;
+}
+.div-eleven{
+    margin-left: 750px;
+    margin-top:-35px;
+}
+.footer{
+    background: yellow;
+    width: 100%;
+  height: 100px;
+    background-repeat: no-repeat;
+}
+.q{
+    margin-left: 370px;
+}
